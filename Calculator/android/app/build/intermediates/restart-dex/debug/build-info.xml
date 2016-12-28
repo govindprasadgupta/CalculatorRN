@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="56405621364861"
+    token="-127661412134241709"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="803" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="206" />
+    <task
+        name="verifier"
+        duration="41" />
+
+    <artifact
+        location="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="56405621364861"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

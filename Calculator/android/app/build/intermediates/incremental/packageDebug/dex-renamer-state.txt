@@ -1,0 +1,7 @@
+#Tue Oct 25 17:44:04 IST 2016
+base.0=/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b2665015c58734f681ed5f862642a70cc1619c5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b896976ae0b2d130b07bc679b2b725d8addbafe9/classes.dex
+base.1=/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b896976ae0b2d130b07bc679b2b725d8addbafe9
+file.0=/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b2665015c58734f681ed5f862642a70cc1619c5/classes.dex

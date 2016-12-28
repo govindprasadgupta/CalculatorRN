@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/govind.gupta/Desktop/Application/Calculator/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/govind.gupta/Desktop/Application/Calculator/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

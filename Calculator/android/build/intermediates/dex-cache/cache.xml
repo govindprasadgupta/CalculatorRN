@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_30c4b6fd49a7580d3befa6d9260fd3ead55a16ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_3a2d866bb89ec0b27f0f74478c5d19ffdc7622bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_f2c2b9002906d7f2291b8e2a253ce1336bb7e721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_4a3b0995d896bc91ed35d0bf5c7a8e14e0de127c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_fbf63810de4fe76ec7edf916650f3c8e9295a431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_e9d751c8dbbcf5d1faf58f2489116c9d1103d61c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="621b0dd1ca175acfbd0224f330c1d84796a8f718">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b896976ae0b2d130b07bc679b2b725d8addbafe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_1a6882cdd3c5ce1e2295d2f3f2461b06b7c33137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_8aa0186c573a663c5f6d21bcdb756faa6ef80941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_e6a3a477ba222f3eaadfacb11d5630b135816a72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_71061a0efee138d7e697004f8a10f053bfdc9f10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_f7cae96acb3e4754ecb68556814be1306643176a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_5a221b800291c2c22be3f35d6b118ecd138a289d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="db2c76df02d034e8d49bca2a69af788a787b46b2">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_01346cae7252dbc51772055856e296f7f3521d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_adf4401fc3c2c102cf08e6ed5cee30b1ee794223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_b6fa2376b6d26fe0ca94f32c298e84c920f86046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_b87fe5335b91eb156e1349176f30b06c81afc8bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cdc91752c90040ec7871c44963c63c751b1fa94b">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.35.0_da649a7a416c741a3460314eb168be605be5b184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_0a1bcc1caaf066967c429c043cbc7644bd54d610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_2df82eb4a14cfae1253895015da26c7546346317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_735b8e6e0bfd98513a3c6648109d1c7fe82c22df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_46a826e4590a8a91f4586ecdcafdbb70a45edfc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_72170ae28fd2a94bc09bf1177dd8bd336ae97525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9873dc16a733c9ddda28f31e50897b13c38a8f01">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b2665015c58734f681ed5f862642a70cc1619c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/govind.gupta/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/govind.gupta/Desktop/CalculatorApp/Calculator/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_d0f3c18ffab33f0b7c041d04d20befce87f9b5e4/classes.dex" />
+    </item>
+
+</items>
